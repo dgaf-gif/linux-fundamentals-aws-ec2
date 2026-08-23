@@ -1,6 +1,8 @@
 # Linux Fundamentals & AWS EC2 Administration
 
-![Linux](https://imgur.com/xedzuwy.png)
+## 📁 Directory Structure
+
+![Linux Directory Structure](images/directory-tree.png)
 
 ## Skills
 
@@ -71,6 +73,75 @@ Login to AWS cloud and create Linux based EC2 instance to complete the below ass
 5. Delete /data directory
 11. Login to AWS and detach EBS volume to the EC2 Instance and delete the volume and then terminate EC2 instance.
 
+
+## Outputs
+ 1.**Create users and set passwords**
+
+![Users and passwords](images/users-pass.png)
+
+2.**Create Groups**
+
+![Groups](images/add-group.png)
+
+3.**Create directories**
+
+![directories](images/add-directories.png)
+
+4.**Create files**
+
+![Files](images/add-Files.png)
+
+5.**Change group ownership**
+
+![Group Ownership](images/change-group-ownership.png)
+
+6.**Change owner**
+
+![Change Owner](images/change-owner.png)
+
+7.**Create a file using a path**
+
+![Create files](images/create-files.png)
+
+8.**Move the file**
+
+![Moves files](images/Moves-files.png)
+
+9.**Delete files/directories**
+
+![Delete files](images/Delete-files.png)
+
+10.**File Handling-sed**
+
+![File Handling](images/handling-sed.png)
+
+11.**Editor vim/vi**
+
+![Editor](images/editor-vi.png)
+
+12.**Find a file or Count files in "/"**
+
+![find files](images/find-files.png)
+
+13.**Create an EBS volume**
+
+![EBS](images/create-EBS.png)
+
+14.**Format EBS disk**
+
+![format EBS](images/format-EBS.png)
+
+15.**Create mount directory and mount EBS**
+
+![mount EBS](images/mount-EBS.png)
+
+16.**Make EBS mount automatically**
+
+![automatically mount EBS](images/auto-mount-EBS.png)
+
+17.**Delete users**
+
+![Delete users](images/delete-users.png)
 
 
 ## 🛠️ Author 
